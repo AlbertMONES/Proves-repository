@@ -3,7 +3,7 @@ Proves-repository
 
 Proyecto http://Replicat.es. 
 
-Plataforma de intercambio tecnológico sin ánimo de lucro en código abierto
+Plataforma de intercambio tecnológico sin ánimo de lucro en código abierto.
 
 Estamos probando GitHub para publicar la documentación de proyectos Open Source Hardware
 Para hacerlos de dominio público. Actualmente la web esta en construcción y
