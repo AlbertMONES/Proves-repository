@@ -1,0 +1,673 @@
+Las imagenes, videos, modelados 3D, documentos 2D, documentos CAD, 
+y demas documentación en formato de texto en este producto esa bajo Licencia 
+CREATIVE COMMONS Reconocimiento-CompartirIgual 3.0 España.
+
+Se añade licencia CERN Open Hardware Licence v1.2 para la 
+parte constructiva de dispositivos.
+
+_________________________________________________________
+
+Licencia CREATIVE COMMONS Reconocimiento-CompartirIgual 3.0 España
+
+LA OBRA O LA PRESTACIÓN (SEGÚN SE DEFINEN MÁS ADELANTE) SE 
+PROPORCIONA BAJO LOS TÉRMINOS DE ESTA LICENCIA PÚBLICA DE 
+CREATIVE COMMONS (CCPL O LICENCIA). LA OBRA O LA PRESTACIÓN SE 
+ENCUENTRA PROTEGIDA POR LA LEY ESPAÑOLA DE PROPIEDAD 
+INTELECTUAL Y/O CUALESQUIERA OTRAS NORMAS QUE RESULTEN DE 
+APLICACIÓN. QUEDA PROHIBIDO CUALQUIER USO DE LA OBRA O 
+PRESTACIÓN DIFERENTE A LO AUTORIZADO BAJO ESTA LICENCIA O LO 
+DISPUESTO EN LA LEY DE PROPIEDAD INTELECTUAL.
+
+MEDIANTE EL EJERCICIO DE CUALQUIER DERECHO SOBRE LA OBRA O LA 
+PRESTACIÓN, USTED ACEPTA Y CONSIENTE LAS LIMITACIONES Y 
+OBLIGACIONES DE ESTA LICENCIA, SIN PERJUICIO DE LA NECESIDAD DE 
+CONSENTIMIENTO EXPRESO EN CASO DE VIOLACIÓN PREVIA DE LOS 
+TÉRMINOS DE LA MISMA. EL LICENCIADOR LE CONCEDE LOS DERECHOS 
+CONTENIDOS EN ESTA LICENCIA, SIEMPRE QUE USTED ACEPTE LOS 
+PRESENTES TÉRMINOS Y CONDICIONES.
+
+1. Definiciones
+
+La obra es la creación literaria, artística o científica ofrecida bajo los términos de esta 
+licencia.
+En esta licencia se considera una prestación cualquier interpretación, ejecución, 
+fonograma, grabación audiovisual, emisión o transmisión, mera fotografía u otros 
+objetos protegidos por la legislación de propiedad intelectual vigente aplicable.
+La aplicación de esta licencia a una colección (definida más adelante) afectará 
+únicamente a su estructura en cuanto forma de expresión de la selección o disposición 
+de sus contenidos, no siendo extensiva a éstos. En este caso la colección tendrá la 
+consideración de obra a efectos de esta licencia.
+El titular originario es:
+En el caso de una obra literaria, artística o científica, la persona natural o grupo de 
+personas que creó la obra.
+En el caso de una obra colectiva, la persona que la edite y divulgue bajo su nombre, 
+salvo pacto contrario.
+En el caso de una interpretación o ejecución, el actor, cantante, músico, o cualquier otra 
+persona que represente, cante, lea, recite, interprete o ejecute en cualquier forma una 
+obra.
+En el caso de un fonograma, el productor fonográfico, es decir, la persona natural o 
+jurídica bajo cuya iniciativa y responsabilidad se realiza por primera vez una fijación 
+exclusivamente sonora de la ejecución de una obra o de otros sonidos.
+En el caso de una grabación audiovisual, el productor de la grabación, es decir, la 
+persona natural o jurídica que tenga la iniciativa y asuma la responsabilidad de las 
+fijaciones de un plano o secuencia de imágenes, con o sin sonido.
+En el caso de una emisión o una transmisión, la entidad de radiodifusión.
+En el caso de una mera fotografía, aquella persona que la haya realizado.
+En el caso de otros objetos protegidos por la legislación de propiedad intelectual 
+vigente, la persona que ésta señale.
+Se considerarán obras derivadas aquellas obras creadas a partir de la licenciada, como 
+por ejemplo: las traducciones y adaptaciones; las revisiones, actualizaciones y 
+anotaciones; los compendios, resúmenes y extractos; los arreglos musicales y, en 
+general, cualesquiera transformaciones de una obra literaria, artística o científica. Para 
+evitar la duda, si la obra consiste en una composición musical o grabación de sonidos, la 
+sincronización temporal de la obra con una imagen en movimiento (synching) será 
+considerada como una obra derivada a efectos de esta licencia.
+Tendrán la consideración de colecciones la recopilación de obras ajenas, de datos o de 
+otros elementos independientes como las antologías y las bases de datos que por la 
+selección o disposición de sus contenidos constituyan creaciones intelectuales. La mera 
+incorporación de una obra en una colección no dará lugar a una derivada a efectos de 
+esta licencia.
+El licenciador es la persona o la entidad que ofrece la obra o prestación bajo los 
+términos de esta licencia y le concede los derechos de explotación de la misma 
+conforme a lo dispuesto en ella.
+Usted es la persona o la entidad que ejercita los derechos concedidos mediante esta 
+licencia y que no ha violado previamente los términos de la misma con respecto a la 
+obra o la prestación, o que ha recibido el permiso expreso del licenciador de ejercitar los 
+derechos concedidos mediante esta licencia a pesar de una violación anterior.
+La transformación de una obra comprende su traducción, adaptación y cualquier otra 
+modificación en su forma de la que se derive una obra diferente. La creación resultante 
+de la transformación de una obra tendrá la consideración de obra derivada.
+Se entiende por reproducción la fijación directa o indirecta, provisional o permanente, 
+por cualquier medio y en cualquier forma, de toda la obra o la prestación o de parte de 
+ella, que permita su comunicación o la obtención de copias.
+Se entiende por distribución la puesta a disposición del público del original o de las 
+copias de la obra o la prestación, en un soporte tangible, mediante su venta, alquiler, 
+préstamo o de cualquier otra forma.
+Se entiende por comunicación pública todo acto por el cual una pluralidad de personas, 
+que no pertenezcan al ámbito doméstico de quien la lleva a cabo, pueda tener acceso a 
+la obra o la prestación sin previa distribución de ejemplares a cada una de ellas. Se 
+considera comunicación pública la puesta a disposición del público de obras o 
+prestaciones por procedimientos alámbricos o inalámbricos, de tal forma que cualquier 
+persona pueda acceder a ellas desde el lugar y en el momento que elija.
+La explotación de la obra o la prestación comprende la reproducción, la distribución, la 
+comunicación pública y, en su caso, la transformación.
+Los elementos de la licencia son las características principales de la licencia según la 
+selección efectuada por el licenciador e indicadas en el título de esta licencia: 
+Reconocimiento, CompartirIgual.
+Una licencia equivalente es:
+Una versión posterior de esta licencia de Creative Commons con los mismos elementos 
+de licencia.
+La misma versión o una versión posterior de esta licencia de cualquier otra jurisdicción 
+reconocida por Creative Commons con los mismos elementos de la licencia (ejemplo: 
+Reconocimiento-CompartirIgual 3.0 Japón).
+La misma versión o una versión posterior de la licencia de Creative Commons no 
+adaptada a ninguna jurisdicción (Unported) con los mismos elementos de la licencia.
+Una de las licencias compatibles que aparece en 
+http://creativecommons.org/compatiblelicenses y que ha sido aprobada por Creative 
+Commons como esencialmente equivalente a esta licencia porque, como mínimo:
+Contiene términos con el mismo propósito, el mismo significado y el mismo efecto que 
+los elementos de esta licencia.
+Permite explícitamente que las obras derivadas de obras sujetas a ella puedan ser 
+distribuidas mediante esta licencia, la licencia de Creative Commons no adaptada a 
+ninguna jurisdicción (Unported) o una licencia de cualquier otra jurisdicción reconocida 
+por Creative Commons, con sus mismos elementos de licencia.
+2. Límites de los derechos. Nada en esta licencia pretende reducir o restringir 
+cualesquiera límites legales de los derechos exclusivos del titular de los derechos de 
+propiedad intelectual de acuerdo con la Ley de propiedad intelectual o cualesquiera 
+otras leyes aplicables, ya sean derivados de usos legítimos, tales como la copia privada 
+o la cita, u otras limitaciones como la resultante de la primera venta de ejemplares 
+(agotamiento).
+
+3. Concesión de licencia. Conforme a los términos y a las condiciones de esta licencia, 
+el licenciador concede, por el plazo de protección de los derechos de propiedad 
+intelectual y a título gratuito, una licencia de ámbito mundial no exclusiva que incluye 
+los derechos siguientes:
+
+Derecho de reproducción, distribución y comunicación pública de la obra o la 
+prestación.
+Derecho a incorporar la obra o la prestación en una o más colecciones.
+Derecho de reproducción, distribución y comunicación pública de la obra o la 
+prestación lícitamente incorporada en una colección.
+Derecho de transformación de la obra para crear una obra derivada siempre y cuando se 
+incluya en ésta una indicación de la transformación o modificación efectuada.
+Derecho de reproducción, distribución y comunicación pública de obras derivadas 
+creadas a partir de la obra licenciada.
+Derecho a extraer y reutilizar la obra o la prestación de una base de datos.
+Para evitar cualquier duda, el titular originario:
+Conserva el derecho a percibir las remuneraciones o compensaciones previstas por actos 
+de explotación de la obra o prestación, calificadas por la ley como irrenunciables e 
+inalienables y sujetas a gestión colectiva obligatoria.
+Renuncia al derecho exclusivo a percibir, tanto individualmente como mediante una 
+entidad de gestión colectiva de derechos, cualquier remuneración derivada de actos de 
+explotación de la obra o prestación que usted realice.
+Estos derechos se pueden ejercitar en todos los medios y formatos, tangibles o 
+intangibles, conocidos en el momento de la concesión de esta licencia. Los derechos 
+mencionados incluyen el derecho a efectuar las modificaciones que sean precisas 
+técnicamente para el ejercicio de los derechos en otros medios y formatos. Todos los 
+derechos no concedidos expresamente por el licenciador quedan reservados, incluyendo, 
+a título enunciativo pero no limitativo, los derechos morales irrenunciables reconocidos 
+por la ley aplicable. En la medida en que el licenciador ostente derechos exclusivos 
+previstos por la ley nacional vigente que implementa la directiva europea en materia de 
+derecho sui generis sobre bases de datos, renuncia expresamente a dichos derechos 
+exclusivos.
+
+4. Restricciones. La concesión de derechos que supone esta licencia se encuentra sujeta 
+y limitada a las restricciones siguientes:
+
+Usted puede reproducir, distribuir o comunicar públicamente la obra o prestación 
+solamente bajo los términos de esta licencia y debe incluir una copia de la misma, o su 
+Identificador Uniforme de Recurso (URI). Usted no puede ofrecer o imponer ninguna 
+condición sobre la obra o prestación que altere o restrinja los términos de esta licencia o 
+el ejercicio de sus derechos por parte de los concesionarios de la misma. Usted no puede 
+sublicenciar la obra o prestación. Usted debe mantener intactos todos los avisos que se 
+refieran a esta licencia y a la ausencia de garantías. Usted no puede reproducir, 
+distribuir o comunicar públicamente la obra o prestación con medidas tecnológicas que 
+controlen el acceso o el uso de una manera contraria a los términos de esta licencia. Esta 
+sección 4.a también afecta a la obra o prestación incorporada en una colección, pero ello 
+no implica que ésta en su conjunto quede automáticamente o deba quedar sujeta a los 
+términos de la misma. En el caso que le sea requerido, previa comunicación del 
+licenciador, si usted incorpora la obra en una colección y/o crea una obra derivada, 
+deberá quitar cualquier crédito requerido en el apartado 4.c, en la medida de lo posible.
+Usted puede distribuir o comunicar públicamente una obra derivada en el sentido de 
+esta licencia solamente bajo los términos de la misma u otra licencia equivalente. Si 
+usted utiliza esta misma licencia debe incluir una copia o bien su URI, con cada obra 
+derivada que usted distribuya o comunique públicamente. Usted no puede ofrecer o 
+imponer ningún término respecto a la obra derivada que altere o restrinja los términos 
+de esta licencia o el ejercicio de sus derechos por parte de los concesionarios de la 
+misma. Usted debe mantener intactos todos los avisos que se refieran a esta licencia y a 
+la ausencia de garantías cuando distribuya o comunique públicamente la obra derivada. 
+Usted no puede ofrecer o imponer ningún término respecto de las obras derivadas o sus 
+transformaciones que alteren o restrinjan los términos de esta licencia o el ejercicio de 
+sus derechos por parte de los concesionarios de la misma. Usted no puede reproducir, 
+distribuir o comunicar públicamente la obra derivada con medidas tecnológicas que 
+controlen el acceso o uso de la obra de una manera contraria a los términos de esta 
+licencia. Si utiliza una licencia equivalente debe cumplir con los requisitos que ésta 
+establezca cuando distribuya o comunique públicamente la obra derivada. Todas estas 
+condiciones se aplican a una obra derivada en tanto que incorporada a una colección, 
+pero no implica que ésta tenga que estar sujeta a los términos de esta licencia.
+Si usted reproduce, distribuye o comunica públicamente la obra o la prestación, una 
+colección que la incorpore o cualquier obra derivada, debe mantener intactos todos los 
+avisos sobre la propiedad intelectual e indicar, de manera razonable conforme al medio 
+o a los medios que usted esté utilizando:
+El nombre del autor original, o el seudónimo si es el caso, así como el del titular 
+originario, si le es facilitado.
+El nombre de aquellas partes (por ejemplo: institución, publicación, revista) que el 
+titular originario y/o el licenciador designen para ser reconocidos en el aviso legal, las 
+condiciones de uso, o de cualquier otra manera razonable.
+El título de la obra o la prestación si le es facilitado.
+El URI, si existe, que el licenciador especifique para ser vinculado a la obra o la 
+prestación, a menos que tal URI no se refiera al aviso legal o a la información sobre la 
+licencia de la obra o la prestación.
+En el caso de una obra derivada, un aviso que identifique la transformación de la obra 
+en la obra derivada (p. ej., "traducción castellana de la obra de Autor Original," o "guión 
+basado en obra original de Autor Original").
+Este reconocimiento debe hacerse de manera razonable. En el caso de una obra derivada 
+o incorporación en una colección estos créditos deberán aparecer como mínimo en el 
+mismo lugar donde se hallen los correspondientes a otros autores o titulares y de forma 
+comparable a los mismos. Para evitar la duda, los créditos requeridos en esta sección 
+sólo serán utilizados a efectos de atribución de la obra o la prestación en la manera 
+especificada anteriormente. Sin un permiso previo por escrito, usted no puede afirmar ni 
+dar a entender implícitamente ni explícitamente ninguna conexión, patrocinio o 
+aprobación por parte del titular originario, el licenciador y/o las partes reconocidas hacia 
+usted o hacia el uso que hace de la obra o la prestación.
+Para evitar cualquier duda, debe hacerse notar que las restricciones anteriores (párrafos 
+4.a, 4.b y 4.c) no son de aplicación a aquellas partes de la obra o la prestación objeto de 
+esta licencia que únicamente puedan ser protegidas mediante el derecho sui generis 
+sobre bases de datos recogido por la ley nacional vigente implementando la directiva 
+europea de bases de datos
+5. Exoneración de responsabilidad
+
+A MENOS QUE SE ACUERDE MUTUAMENTE ENTRE LAS PARTES, EL 
+LICENCIADOR OFRECE LA OBRA O LA PRESTACIÓN TAL CUAL (ON AN 
+"AS-IS" BASIS) Y NO CONFIERE NINGUNA GARANTÍA DE CUALQUIER TIPO 
+RESPECTO DE LA OBRA O LA PRESTACIÓN O DE LA PRESENCIA O 
+AUSENCIA DE ERRORES QUE PUEDAN O NO SER DESCUBIERTOS. 
+ALGUNAS JURISDICCIONES NO PERMITEN LA EXCLUSIÓN DE TALES 
+GARANTÍAS, POR LO QUE TAL EXCLUSIÓN PUEDE NO SER DE APLICACIÓN 
+A USTED.
+
+6. Limitación de responsabilidad. SALVO QUE LO DISPONGA EXPRESA E 
+IMPERATIVAMENTE LA LEY APLICABLE, EN NINGÚN CASO EL 
+LICENCIADOR SERÁ RESPONSABLE ANTE USTED POR CUALESQUIERA 
+DAÑOS RESULTANTES, GENERALES O ESPECIALES (INCLUIDO EL DAÑO 
+EMERGENTE Y EL LUCRO CESANTE), FORTUITOS O CAUSALES, DIRECTOS 
+O INDIRECTOS, PRODUCIDOS EN CONEXIÓN CON ESTA LICENCIA O EL 
+USO DE LA OBRA O LA PRESTACIÓN, INCLUSO SI EL LICENCIADOR 
+HUBIERA SIDO INFORMADO DE LA POSIBILIDAD DE TALES DAÑOS.
+
+7. Finalización de la licencia
+
+Esta licencia y la concesión de los derechos que contiene terminarán automáticamente 
+en caso de cualquier incumplimiento de los términos de la misma. Las personas o 
+entidades que hayan recibido de usted obras derivadas o colecciones bajo esta licencia, 
+sin embargo, no verán sus licencias finalizadas, siempre que tales personas o entidades 
+se mantengan en el cumplimiento íntegro de esta licencia. Las secciones 1, 2, 5, 6, 7 y 8 
+permanecerán vigentes pese a cualquier finalización de esta licencia.
+Conforme a las condiciones y términos anteriores, la concesión de derechos de esta 
+licencia es vigente por todo el plazo de protección de los derechos de propiedad 
+intelectual según la ley aplicable. A pesar de lo anterior, el licenciador se reserva el 
+derecho a divulgar o publicar la obra o la prestación en condiciones distintas a las 
+presentes, o de retirar la obra o la prestación en cualquier momento. No obstante, ello 
+no supondrá dar por concluida esta licencia (o cualquier otra licencia que haya sido 
+concedida, o sea necesario ser concedida, bajo los términos de esta licencia), que 
+continuará vigente y con efectos completos a no ser que haya finalizado conforme a lo 
+establecido anteriormente, sin perjuicio del derecho moral de arrepentimiento en los 
+términos reconocidos por la ley de propiedad intelectual aplicable.
+8. Miscelánea
+
+Cada vez que usted realice cualquier tipo de explotación de la obra o la prestación, o de 
+una colección que la incorpore, el licenciador ofrece a los terceros y sucesivos 
+licenciatarios la concesión de derechos sobre la obra o la prestación en las mismas 
+condiciones y términos que la licencia concedida a usted.
+Cada vez que usted realice cualquier tipo de explotación de una obra derivada, el 
+licenciador ofrece a los terceros y sucesivos licenciatarios la concesión de derechos 
+sobre la obra objeto de esta licencia en las mismas condiciones y términos que la 
+licencia concedida a usted.
+Si alguna disposición de esta licencia resulta inválida o inaplicable según la Ley 
+vigente, ello no afectará la validez o aplicabilidad del resto de los términos de esta 
+licencia y, sin ninguna acción adicional por cualquiera las partes de este acuerdo, tal 
+disposición se entenderá reformada en lo estrictamente necesario para hacer que tal 
+disposición sea válida y ejecutiva.
+No se entenderá que existe renuncia respecto de algún término o disposición de esta 
+licencia, ni que se consiente violación alguna de la misma, a menos que tal renuncia o 
+consentimiento figure por escrito y lleve la firma de la parte que renuncie o consienta.
+Esta licencia constituye el acuerdo pleno entre las partes con respecto a la obra o la 
+prestación objeto de la licencia. No caben interpretaciones, acuerdos o condiciones con 
+respecto a la obra o la prestación que no se encuentren expresamente especificados en la 
+presente licencia. El licenciador no estará obligado por ninguna disposición 
+complementaria que pueda aparecer en cualquier comunicación que le haga llegar usted. 
+Esta licencia no se puede modificar sin el mutuo acuerdo por escrito entre el licenciador 
+y usted.
+Aviso de Creative Commons
+
+Creative Commons no es parte de esta licencia, y no ofrece ninguna garantía en relación 
+con la obra o la prestación. Creative Commons no será responsable frente a usted o a 
+cualquier parte, por cualesquiera daños resultantes, incluyendo, pero no limitado, daños 
+generales o especiales (incluido el daño emergente y el lucro cesante), fortuitos o 
+causales, en conexión con esta licencia. A pesar de las dos (2) oraciones anteriores, si 
+Creative Commons se ha identificado expresamente como el licenciador, tendrá todos 
+los derechos y obligaciones del licenciador.
+
+Salvo para el propósito limitado de indicar al público que la obra o la prestación está 
+licenciada bajo la CCPL, ninguna parte utilizará la marca registrada "Creative 
+Commons" o cualquier marca registrada o insignia relacionada con "Creative 
+Commons" sin su consentimiento por escrito. Cualquier uso permitido se hará de 
+conformidad con las pautas vigentes en cada momento sobre el uso de la marca 
+registrada por "Creative Commons", en tanto que sean publicadas su sitio web (website) 
+o sean proporcionadas a petición previa. Para evitar cualquier duda, estas restricciones 
+en el uso de la marca no forman parte de esta licencia.
+
+Puede contactar con Creative Commons en: http://creativecommons.org/.
+
+
+
+_______________________________________
+
+Traducción no oficial en español de la licencia
+
+Hardware Abierto CERN licencia v1.2
+
+Preámbulo
+
+A través de esta licencia de hardware abierto CERN ("OHL del CERN") versión 1.2, el CERN 
+quiere proporcionar una herramienta para fomentar la colaboración y el intercambio entre 
+diseñadores de hardware. El CERN OHL es copyright CERN. Todos son bienvenidos a utilizar 
+el CERN OHL, solamente en forma no modificada, para la distribución de sus propios diseños 
+de Open Hardware. Cualquier otro derecho está reservado. La liberación de diseños de 
+hardware en el marco del CERN OHL no constituye una aprobación del licenciante o sus diseños 
+ni implica ningún compromiso por el CERN en el desarrollo de este tipo de diseños.
+
+1 Definiciones
+
+En esta Licencia, los siguientes términos tienen los siguientes significados:
+
+"Licencia" significa el presente CERN OHL.
+
+"Documentación" son diagramas esquemáticos, diseños, circuitos o diseños de placas de 
+circuitos, dibujos mecánicos, diagramas de flujo y textos descriptivos y otro material 
+explicativo que aparece explícitamente como puestas a disposición en las condiciones de 
+esta Licencia. La documentación puede estar en cualquier medio, incluyendo, pero no 
+limitado a los archivos informáticos y representaciones en papel, película o cualquier 
+otro medio.
+
+"Ubicación de la documentación": un lugar donde el Licenciante ha puesto documentación, y 
+que él cree que será accesible al público durante al menos tres años desde la primera 
+comunicación al público, o la distribución de documentación.
+
+"Producto": un entero, o parte de un dispositivo construido utilizando la documentación y en 
+la documentación modificada.
+
+"Titular", cualquier persona física o jurídica que ejerza los derechos bajo esta Licencia.
+
+"Licenciante" significa cualquier persona física o jurídica que crea o modifica Documentación 
+y posteriormente se comunica con el público y/o distribuye la documentación resultante en 
+los términos y condiciones de esta Licencia.
+
+El Licenciatario puede al mismo tiempo ser un licenciante, y viceversa.
+
+El uso del género masculino incluye el femenino y neutro y se emplea únicamente para 
+facilitar la lectura.
+
+2 Aplicabilidad
+
+2.1 Esta licencia rige el uso, copia, modificación, comunicación al público y distribución 
+de la documentación, así como la fabricación y distribución de productos. En el ejercicio 
+de cualquier derecho otorgado bajo esta Licencia, el Licenciatario acepta irrevocablemente 
+estos términos y condiciones.
+
+2.2 Esta licencia se concede por el Concedente directamente 
+al Licenciatario, y será de aplicación en todo el mundo y sin limitación en el tiempo. 
+El licenciatario puede ceder sus derechos de licencia u otorgar sublicencias.
+
+2.3 Esta licencia no se extiende a software, firmware, o código cargado en dispositivos 
+programables que pueden ser usados en conjunción con la documentación, la 
+documentación modificado o con los productos, a menos que dicho software, firmware, o 
+código se expresa explícitamente a ser objeto de esta licencia. El uso de dicho software, 
+firmware o el código es sujeto a los términos y condiciones de licencia aplicables.
+
+3 copia, modificación, comunicación al público y distribución de la documentación
+
+3.1 El Licenciatario deberá mantener intactos todos los avisos de copyright y marcas 
+registradas, todos los avisos que se refieren a la documentación ubicación y todos los 
+avisos que se refieran a esta Licencia y a la limitación de garantías que se incluyen en la 
+documentación. Se incluirá una copia del mismo en todas las copias de la documentación 
+o, en su caso, documentación modificada, que se comunica con el público o distribuye.
+
+3.2 El Licenciatario puede copiar, comunicar al público y distribución de copias literales 
+de la Documentación, en cualquier medio, sin perjuicio de los requisitos especificados en el 
+apartado 3.1.
+
+3.3 El Licenciatario podrá modificar la documentación o cualquier parte del mismo, siempre 
+que en la modificación de la documentación, la licencia deberá facilitar la documentación 
+modificada dispone de una documentación ubicación de forma que pueda ser fácilmente 
+ubicado por un emisor de licencia original, una vez que el Licenciatario se comunica al 
+público o distribuye la documentación modificada en virtud del artículo 3.4, y, en su caso 
+por el artículo 4.1, por parte del beneficiario de un producto. Sin embargo, el licenciante 
+no podrá hacer valer sus derechos en virtud de la condición anterior a menos que o hasta 
+que se distribuye un producto.
+
+3.4 El Licenciatario podrá comunicar al público y distribuir la documentación modificada 
+(lo que además de ser un licenciatario también convertirse en un licenciante), siempre y 
+siempre que lo haga:
+
+a) cumplir con la sección 3.1;
+
+b) hacer que la documentación modificada lleven anuncios prominentes indicando que el 
+titular ha modificado la documentación, con la fecha y la descripción de las 
+modificaciones;
+
+c) hacer que la documentación modificada para llevar una nueva Ubicación de la 
+documentación de aviso si la documentación original referente a uno;
+
+d) poner a disposición de la documentación modificada en el mismo nivel de abstracción 
+que el de la documentación, en el formato preferido para realizar modificaciones a la 
+misma (por ejemplo, el formato nativo de la herramienta CAD según el caso), y en el caso 
+de que el formato es de propiedad, en un formato visible con una herramienta licenciado 
+bajo una licencia aprobada por OSI si la herramienta patentada puede crearlo, y
+
+e) Licencia de Documentación modificado en los términos y condiciones de esta Licencia 
+o, en su caso, una versión posterior de esta licencia que puede ser emitido por el CERN.
+
+3.5 La licencia incluye una licencia no exclusiva para las patentes o diseños registrados 
+que se llevan a cabo por, bajo el control de, o sub -otorgada por el licenciante, en 
+la medida necesaria para hacer uso de los derechos otorgados bajo esta Licencia. El alcance 
+de esta sección 3.5 se limita única y exclusivamente a las partes de la documentación o 
+documentación modificada creada por el Concedente.
+
+4 Fabricación y distribución de productos
+
+4.1 El Licenciatario podrá fabricar o distribuir productos siempre a condición de que, 
+cuando tal fabricación o distribución requiere una licencia en virtud de la presente 
+licencia al Licenciatario proporciona a cada destinatario de dichos productos una forma 
+fácil de acceder a una copia de la documentación o documentación modificada, según 
+corresponda, establecido en la sección 3.
+
+4.2 Se invita a la licencia para informar cualquier Licenciante, que ha indicado su deseo de 
+recibir la información sobre el tipo, la cantidad y la fecha de producción de los productos 
+del Licenciatario tiene (tenía) de la empresa
+
+5 Garantía y responsabilidad
+
+5.1 Responsabilidad - La documentación y la documentación modificada se proporciona " tal 
+cual" y cualquier garantía explícita o implícita, incluyendo, pero sin limitarse a, las 
+garantías implícitas de comercialización, calidad satisfactoria, de no violación de 
+derechos de terceros e idoneidad para un finalidad o utilización determinado con respecto 
+a la documentación, la documentación o cualquier modificación del producto. El 
+Licenciante no garantiza que la documentación, documentación modificada, o cualquier 
+producto, tenga o no infringirá ninguna patente, copyright, secretos comerciales u otros 
+derechos de propiedad. Todo el riesgo en cuanto al uso, la calidad y el rendimiento de un 
+producto deberá estar con el Licenciatario, y no el licenciador. Esta renuncia de garantía 
+constituye una parte esencial de la presente licencia y una condición para la concesión 
+de los derechos concedidos bajo esta licencia. Las órdenes Licenciatario que no actúa en 
+calidad de consumidor.
+
+5.2 LIMITACIÓN DE RESPONSABILIDAD - El Licenciante no será responsable de directos 
+indirectos, especiales, incidentales, consecuenciales, ejemplares, punitivos o de otro tipo, 
+de cualquier carácter, incluyendo, sin limitación, la adquisición de bienes o servicios 
+sustitutos, pérdida de uso, datos o beneficios o interrupción del negocio, sin importar su 
+causa y bajo cualquier teoría de contrato, garantía, agravio (incluyendo negligencia), 
+responsabilidad del producto o cualquier otro, que surja de algún modo en relación con la 
+documentación, documentación modificada y/o el uso, fabricación o distribución de un 
+producto, incluso si se advirtió de la posibilidad de tales daños, y el Licenciatario deberá 
+conservar el licenciador (s) libre y libre de cualquier responsabilidad, coste, daños y 
+perjuicios, honorarios y gastos, incluidas las reclamaciones por parte de terceros, en 
+relación con dicho uso.
+
+6 general
+
+6.1 A excepción de los derechos otorgados expresamente a continuación, esta Licencia no 
+implica ni representa ninguna transferencia o cesión de derechos de propiedad intelectual 
+para el licenciatario.
+
+6.2 El Licenciatario no podrá usar o hacer referencia a cualquiera de los nombres 
+(incluyendo acrónimos y abreviaturas), imágenes o logos en las que se conoce el Concedente, 
+salvo en la medida necesaria para cumplir con la sección 3. Cualquier uso no permitido o 
+referencia serán hechos y en ningún caso sugerir ningún tipo de respaldo por parte del 
+Concedente o su personal, de la Documentación o cualquier modificación del producto, o 
+cualquier tipo de implicación por el Concedente o su personal en la preparación de la 
+modificación Documentación o producto.
+
+6.3 CERN puede publicar versiones actualizadas de esta Licencia que conservan las mismas 
+disposiciones generales sobre esta versión, pero difieren en los detalles hasta el 
+momento esto es necesario y razonable. Las nuevas versiones se publicarán con un 
+número de versión único.
+
+6.4 Esta Licencia terminará con efecto inmediato, mediante notificación por escrito y 
+sin intervención de un juez si el Licenciatario incumple cualquiera de sus términos y 
+condiciones, o si el Licenciatario inicia acciones legales contra el Licenciante en 
+relación con la presente Licencia. Sección 5 seguirá aplicándose.
+
+
+_______________________________________
+
+Texto original en ingles de la licencia
+
+CERN Open Hardware Licence v1.2 
+
+Preamble
+
+Through this CERN Open Hardware Licence ("CERN OHL") version 1.2, CERN
+wishes to provide a tool to foster collaboration and sharing among
+hardware designers. The CERN OHL is copyright CERN. Anyone is welcome
+to use the CERN OHL, in unmodified form only, for the distribution of
+their own Open Hardware designs. Any other right is reserved. Release
+of hardware designs under the CERN OHL does not constitute an
+endorsement of the licensor or its designs nor does it imply any
+involvement by CERN in the development of such designs.
+
+1. Definitions
+
+In this Licence, the following terms have the following meanings:
+ 
+“Licence” means this CERN OHL.
+
+“Documentation” means schematic diagrams, designs, circuit or circuit
+board layouts, mechanical drawings, flow charts and descriptive text,
+and other explanatory material that is explicitly stated as being made
+available under the conditions of this Licence. The Documentation may
+be in any medium, including but not limited to computer files and
+representations on paper, film, or any other media.
+
+“Documentation Location” means a location where the Licensor has
+placed Documentation, and which he believes will be publicly
+accessible for at least three years from the first communication to
+the public or distribution of Documentation.
+
+“Product” means either an entire, or any part of a, device built using
+the Documentation or the modified Documentation.
+
+“Licensee” means any natural or legal person exercising rights under
+this Licence.
+
+“Licensor” means any natural or legal person that creates or modifies
+Documentation and subsequently communicates to the public and/ or
+distributes the resulting Documentation under the terms and conditions
+of this Licence.
+
+A Licensee may at the same time be a Licensor, and vice versa. 
+
+Use of the masculine gender includes the feminine and neuter genders
+and is employed solely to facilitate reading.
+
+2. Applicability
+
+2.1. This Licence governs the use, copying, modification,
+communication to the public and distribution of the Documentation, and
+the manufacture and distribution of Products. By exercising any right
+granted under this Licence, the Licensee irrevocably accepts these
+terms and conditions.
+
+2.2. This Licence is granted by the Licensor directly to the Licensee,
+and shall apply worldwide and without limitation in time. The Licensee
+may assign his licence rights or grant sub-licences.
+
+2.3. This Licence does not extend to software, firmware, or code
+loaded into programmable devices which may be used in conjunction with
+the Documentation, the modified Documentation or with Products, unless
+such software, firmware, or code is explicitly expressed to be subject
+to this Licence. The use of such software, firmware, or code is
+otherwise subject to the applicable licence terms and conditions.
+
+3. Copying, modification, communication to the public and distribution
+of the Documentation
+
+3.1. The Licensee shall keep intact all copyright and trademarks
+notices, all notices referring to Documentation Location, and all
+notices that refer to this Licence and to the disclaimer of warranties
+that are included in the Documentation. He shall include a copy
+thereof in every copy of the Documentation or, as the case may be,
+modified Documentation, that he communicates to the public or
+distributes.
+
+3.2. The Licensee may copy, communicate to the public and distribute
+verbatim copies of the Documentation, in any medium, subject to the
+requirements specified in section 3.1.
+
+3.3. The Licensee may modify the Documentation or any portion thereof
+provided that upon modification of the Documentation, the Licensee
+shall make the modified Documentation available from a Documentation
+Location such that it can be easily located by an original Licensor
+once the Licensee communicates to the public or distributes the
+modified Documentation under section 3.4, and, where required by
+section 4.1, by a recipient of a Product. However, the Licensor shall
+not assert his rights under the foregoing proviso unless or until a
+Product is distributed.
+
+3.4. The Licensee may communicate to the public and distribute the
+modified Documentation (thereby in addition to being a Licensee also
+becoming a Licensor), always provided that he shall:
+
+a) comply with section 3.1;
+
+b) cause the modified Documentation to carry prominent notices stating
+that the Licensee has modified the Documentation, with the date and
+description of the modifications;
+
+c) cause the modified Documentation to carry a new Documentation
+Location notice if the original Documentation provided for one;
+
+d) make available the modified Documentation at the same level of
+abstraction as that of the Documentation, in the preferred format for
+making modifications to it (e.g. the native format of the CAD tool as
+applicable), and in the event that format is proprietary, in a format
+viewable with a tool licensed under an OSI-approved license if the
+proprietary tool can create it; and
+
+e) license the modified Documentation under the terms and conditions
+of this Licence or, where applicable, a later version of this Licence
+as may be issued by CERN.
+
+3.5. The Licence includes a non-exclusive licence to those patents or
+registered designs that are held by, under the control of, or
+sub-licensable by the Licensor, to the extent necessary to make use of
+the rights granted under this Licence. The scope of this section 3.5
+shall be strictly limited to the parts of the Documentation or
+modified Documentation created by the Licensor.
+
+4. Manufacture and distribution of Products
+
+4.1. The Licensee may manufacture or distribute Products always
+provided that, where such manufacture or distribution requires a
+licence under this Licence the Licensee provides to each recipient of
+such Products an easy means of accessing a copy of the Documentation
+or modified Documentation, as applicable, as set out in section 3.
+
+4.2. The Licensee is invited to inform any Licensor who has indicated
+his wish to receive this information about the type, quantity and
+dates of production of Products the Licensee has (had) manufactured
+
+5. Warranty and liability
+
+5.1. DISCLAIMER – The Documentation and any modified Documentation are
+provided "as is" and any express or implied warranties, including, but
+not limited to, implied warranties of merchantability, of satisfactory
+quality, non-infringement of third party rights, and fitness for a
+particular purpose or use are disclaimed in respect of the
+Documentation, the modified Documentation or any Product. The Licensor
+makes no representation that the Documentation, modified
+Documentation, or any Product, does or will not infringe any patent,
+copyright, trade secret or other proprietary right. The entire risk as
+to the use, quality, and performance of a Product shall be with the
+Licensee and not the Licensor. This disclaimer of warranty is an
+essential part of this Licence and a condition for the grant of any
+rights granted under this Licence. The Licensee warrants that it does
+not act in a consumer capacity.
+
+5.2. LIMITATION OF LIABILITY – The Licensor shall have no liability
+for direct, indirect, special, incidental, consequential, exemplary,
+punitive or other damages of any character including, without
+limitation, procurement of substitute goods or services, loss of use,
+data or profits, or business interruption, however caused and on any
+theory of contract, warranty, tort (including negligence), product
+liability or otherwise, arising in any way in relation to the
+Documentation, modified Documentation and/or the use, manufacture or
+distribution of a Product, even if advised of the possibility of such
+damages, and the Licensee shall hold the Licensor(s) free and harmless
+from any liability, costs, damages, fees and expenses, including
+claims by third parties, in relation to such use.
+
+6. General
+
+6.1. Except for the rights explicitly granted hereunder, this Licence
+does not imply or represent any transfer or assignment of intellectual
+property rights to the Licensee.
+
+6.2. The Licensee shall not use or make reference to any of the names
+(including acronyms and abbreviations), images, or logos under which
+the Licensor is known, save in so far as required to comply with
+section 3. Any such permitted use or reference shall be factual and
+shall in no event suggest any kind of endorsement by the Licensor or
+its personnel of the modified Documentation or any Product, or any
+kind of implication by the Licensor or its personnel in the
+preparation of the modified Documentation or Product.
+
+6.3. CERN may publish updated versions of this Licence which retain
+the same general provisions as this version, but differ in detail so
+far this is required and reasonable. New versions will be published
+with a unique version number.
+
+6.4. This Licence shall terminate with immediate effect, upon written
+notice and without involvement of a court if the Licensee fails to
+comply with any of its terms and conditions, or if the Licensee
+initiates legal action against Licensor in relation to this
+Licence. Section 5 shall continue to apply.
