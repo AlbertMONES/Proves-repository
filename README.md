@@ -1,7 +1,7 @@
 Proves-repository
 =================
 
-Proyecto http://Replicat.es. 
+Proyecto http://Replicat.net 
 
 Plataforma de intercambio tecnológico sin ánimo de lucro en código abierto.
 
